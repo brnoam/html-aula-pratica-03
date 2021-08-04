@@ -1,0 +1,11 @@
+{
+  "name": "at3",
+  "version": "1.0.0",
+  "description": "atv3",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "author": "Bruno Amorim",
+  "license": "ISC"
+}

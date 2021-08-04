@@ -1,0 +1,14 @@
+{
+  "name": "at1",
+  "version": "1.0.0",
+  "description": "atv1",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "Bruno Amorim",
+  "license": "ISC"
+}
